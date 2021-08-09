@@ -6,6 +6,8 @@ dpkg-reconfigure slapd
 
 apt install phpldapadmin
 
+# configure phpldapadmin
+/etc/phpldapadmin/config.php
 
 # change 127.0.0.1 to your_ip
 $servers->setValue('server','host','127.0.0.1');
