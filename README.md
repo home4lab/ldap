@@ -21,3 +21,6 @@ $servers->setValue('login','bind_id','cn=admin,dc=example,dc=com');
 
 # uncomment this and set to true
 // $config->custom->appearance['hide_template_warning'] = false;
+
+# open web browser
+http://your_ip/phpldapadmin/
