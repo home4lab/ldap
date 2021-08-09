@@ -1,8 +1,8 @@
 # ldap
 
 apt install slapd ldap-utils
-dpkg-reconfigure slapd
 
+dpkg-reconfigure slapd
 
 apt install phpldapadmin
 
